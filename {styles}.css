@@ -1,0 +1,39 @@
+h1{
+    background-color:aquamarine
+}
+
+.colorFondo{
+    background-color: antiquewhite;
+}
+
+#colorTexto{
+    color: rgb(0, 0, 0);
+}
+
+.apper {
+    text-align: center;
+    background-color: #2fd4b3; /* Dark green (navy) */
+    padding: 12px 0; /* Added padding for better appearance */
+}
+
+.nav-wrapper ul {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-wrapper ul li {
+    display: inline;
+    margin-right: 10px; /* Adjust as needed */
+}
+
+.nav-wrapper ul li a {
+    color white; /* Black text color */
+    text-decoration: none; /* Remove underline */
+    padding: 6px 12px; /* Add padding around links */
+}
+
+.nav-wrapper ul li a:hover {
+    background-color: rgb(0, 0, 0) ; /* Darker green on hover */
+}
